@@ -12,16 +12,14 @@ You can find my source Scala code in src file. A simple way to run my code is us
 
 Here is a command line templet.
 
-'''
+```
 $SPARK_HOME/bin/spark-submit --class Yanan_Fei Yanan_Fei.jar
-'''
-
-Because of repo size limitation. I put my .jar file on google drive. You can find it by https://drive.google.com/file/d/1HBdic3mQuGc7or0EZSbr6vigdCzbfRGX/view?usp=sharing
+```
 
 # Repo directory structure
 
 The directory structure of my repo is:
-'''
+```
       ├── README.md 
       ├── src
       │   └──Yanan_Fei.Scala
@@ -31,7 +29,7 @@ The directory structure of my repo is:
       |   └── top_10_occupations.txt
       |   └── top_10_states.txt
       ├── Yanan_Fei.jar
-'''
+```
 
 # Run another input.csv using .jar
 
